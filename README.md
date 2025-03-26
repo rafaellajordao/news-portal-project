@@ -27,9 +27,10 @@ This project was developed using the following technologies:
 
 ## 🔥 Features
 
-- [x] Responsive layout using CSS Grid
-- [x] Modern and accessible design
-- [x] Semantic and optimized code
+📰 **Dynamic News Layout** – *Organized and engaging presentation for news content* <br>
+✅ **Responsive Design** – *Adaptive interface using CSS Flexbox and Grid* <br>
+🎨 **Modern and Accessible UI** – *Clean, intuitive, and inclusive design for all users* <br>
+⚡ **Optimized and Semantic Code** – *Well-structured markup for better performance and SEO* <br>
 
 ## 📸 Demo
 
